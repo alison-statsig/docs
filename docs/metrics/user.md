@@ -48,4 +48,6 @@ There are several options:
   i. Excluding specific events - Some companies may want to exclude specific events (eg. events that aren't considered significant user interactions, homepage_visit or notification_sent).  You can Expand and uncheck events you do not want to include.  You can also toggle whether future events (not shown on the list) should be included or excluded.
   ii. Include specific events - Some companies prefer to have a very narrow definition of an active user (eg. event = login).  This can be accomplished by selecting the set of events, and turning off "Include New Events by Default".
 
-Changes to the DAU definition will go in place on the date of the change.  Historic data will remain unchanged.  We do not currently support the ability to backfill.  We do recommend setting your DAU definition before running any experiments or rolling out any features.
+Changes to the DAU definition will go in place on the date of the change.  Historic data will remain unchanged.  We do not currently support the ability to backfill.  We do recommend setting your DAU definition before running any experiments or rolling out any features. 
+
+TESTING DONT APPROVE
